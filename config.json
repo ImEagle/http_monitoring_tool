@@ -1,0 +1,22 @@
+{
+  "interval": 5,
+  "urls": [
+    {
+      "url": "https://news.ycombinator.com/",
+      "content": "points"
+    },
+    {
+      "url": "https://google.com",
+      "content": "congratulation you are the winner"
+    },
+    {
+      "url": "http://127.0.0.1:1234"
+    },
+    {
+      "url": "https://news.ycombinator.com/"
+    },
+    {
+      "url": "avasdasd"
+    }
+  ]
+}
